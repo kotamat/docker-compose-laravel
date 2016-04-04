@@ -27,4 +27,4 @@ laravel:
   environment:
     APP: local
   volumes:
-    - ../:/var/www/laravel
+    - ../:/app
